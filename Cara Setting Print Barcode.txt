@@ -1,8 +1,0 @@
-Harus menggunakan browser Mozilla Firefox
-jika menggunakan browser yang lain maka di download file terlebih dahulu
-
-- klik properties
-- set Tape width 24mm
-- set Tape Length 3.00
-- set orientation horizontal
-- klik ok, tinggal print

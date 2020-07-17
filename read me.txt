@@ -1,0 +1,5 @@
+tabel ma_jenisasset tambah column kode_jns (char(20))
+tabel ma_kategoriasset tambah column kode_k (char(20))
+tabel ma_namabarang tambah column kode_b (char(20))
+
+tabel ta_asset tambah cloumn nama_karawan (varchar(30)), divisi (varchar(20)), tipe_asset (varchar(20))
